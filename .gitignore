@@ -1,0 +1,8 @@
+slurm-*
+wandb/
+*.npy
+__pycache__/
+model/experiments/
+.vscode/
+data/
+.DS_Store

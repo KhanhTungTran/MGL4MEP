@@ -1,0 +1,10 @@
+numpy
+pandas
+tqdm
+scikit-learn
+wandb
+--extra-index-url https://download.pytorch.org/whl/cu113
+torch
+torchaudio
+torchvision
+statsmodels
